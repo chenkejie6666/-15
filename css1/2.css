@@ -1,0 +1,341 @@
+.js
+{
+	width:960px;
+	margin: 0 auto;
+}
+.xl
+{
+	float: left;
+	font-size:20px;
+	font-family:Microsoft YaHei;
+	font-weight:bold;
+	color:rgba(0,164,255,1);
+	margin: 0 auto;
+	margin-top: 16.5px;
+	margin-bottom: 16.5px;
+}
+.kaitou
+{
+	margin: 0 auto;
+	width: 600px;
+}
+.lb
+{
+	font-size:9px;
+	font-family:Microsoft YaHei;
+	color:rgba(5,5,5,1);
+	float: left;
+}
+.lb li
+{
+	float: left;
+	width: 120.5px;
+	font-size: 9px;
+	text-align: center;
+	margin-top: 21px;
+	margin-bottom: 21px;
+	font-family:Microsoft YaHei;
+	font-weight: 400px;
+}
+.submit
+{
+	float: left;
+	width: 25px;
+	height: 16.25px;
+	background: rgba(0,164,255,1) url(../images/fa-search@2x.png) no-repeat center;
+	border:none;
+	padding: 13.5px;
+}
+.form
+{
+	float: right;
+	margin-top: 15.5px;
+}
+.search{
+	float: left;
+	padding: 6px 130px 6px 9px;
+	width:150px;
+	height:14px;
+	border:1px solid rgba(0,164,255,1);
+}
+.geren
+{
+	float: right;
+	margin-top: 14px;
+	margin-left: 10px;
+	font-size:6px;
+	font-family:Microsoft YaHei;
+	color:rgba(102,102,102,1);
+	text-align: center;
+}
+.js .kaitou .kt2 a:hover
+{
+	padding-bottom: 5px;
+	border-bottom: 1px solid rgba(0,164,255,1);
+}
+.nav2 li
+{
+	width:51px;
+	height:22px;
+	font-size:7px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	line-height:22px;
+}
+.nav2 a
+{
+	color:white;
+}
+.nav2 
+{
+	width: 50.5px;
+	height: 182.5px;
+}
+.php .dh .nav3
+{
+float: right;
+}
+.php .dh .nav2
+{
+float: left;
+}
+.dh
+{
+	float: left;
+}
+.php
+{
+	width: 960px;
+	height: 210px;
+	background: rgba(28,3,108,1) url(../images/1.png) no-repeat center;
+	margin:0 auto;
+	padding-left: 180px;
+}
+.php .dh a:hover
+{
+	color: #00B4FF;
+}
+.dh2 li
+{
+	float: left;
+}
+.jp
+{
+	color: #00A4FF;
+	float: left;
+}
+.xg
+{
+	float: right
+}
+.dh3
+{
+	width:553px;
+	height:9px;
+	font-size:8px;
+	font-family:Microsoft YaHei;
+	font-weight:bold;
+	color:rgba(0,164,255,1);
+	padding-bottom: 10.5px;
+	padding-top: 10.5px;
+	padding-right: 30.5px;
+	padding-left: 17px;
+}
+.dh2 .dh3 li
+{
+	color: black
+}
+.sb
+{
+	margin: 0 auto;
+	width: 960px;
+	height:30px;
+	background:rgba(255,255,255,1);
+	box-shadow:0px 1px 2px 0px rgba(118,118,118,0.2);
+}
+.dh3 li
+{
+	font-weight: bold;
+    color: rgba(0, 0, 0, 1);
+     padding: 0 30px;
+    border-right: 2px solid rgba(0, 0, 0, 1);
+}
+.dh3 li.last
+{
+	border: none;
+    padding-right: 20px;
+}
+.dh2
+{
+	font-size:8px;
+	font-family:Microsoft YaHei;
+	font-weight:bold;
+	color:rgba(0,164,255,1);
+}
+.jp2
+{
+	width:40px;
+	height:10px;
+	font-size:10px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(73,73,73,1);
+	float: left;
+}
+.ck
+{
+	width:24px;
+	height:7px;
+	font-size:6px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(165,165,165,1);
+	float: right;
+}
+.tp li
+{
+	float:left;
+}
+.qd
+{
+	float: left;
+	width:70px;
+	height:10px;
+	font-size:10px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(73,73,73,1);
+}
+.qddd li
+{
+	float: left;
+	font-weight: bold;
+	padding:0 30px; 
+}
+.qddd li a {
+	color: #868686;
+}
+.qddd li a:hover{
+	color: #00A4FF;
+}
+.qddd a{
+	width: 164px;
+	height: 9px;
+	font-size: 8px;
+	font-family: Microsoft YaHei;
+	font-weight: 400;
+	color: rgba(0,164,255,1);
+}
+.nav7
+{
+	width: 960px;
+	margin: 0 auto;
+}
+.nav7 div
+{
+	float: left;
+}
+.nav71 img
+{
+	width:114px;
+	height:78px;
+}
+.nav71 p
+{
+	width:93px;
+	font-size:7px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(5,5,5,1);
+	line-height:10px;
+}
+.nr
+{
+	width:40px;
+	height:10px;
+	font-size:10px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(73,73,73,1);
+}
+.nrrr
+{
+	width: 960px;
+	margin: 0 auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.nrr
+{
+	float: left;
+}
+.big8
+{
+	width: 960px;
+	margin: 0 auto;
+}
+.person div
+{
+	float: left;
+}
+.person1 img
+{
+	width:114px;
+	height:160px;
+}
+.person1 p
+{
+	width:93px;
+	font-size:7px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(5,5,5,1);
+	line-height:10px;
+}
+.nav8{
+	width: 960px;
+	margin: 0 auto;
+	padding-top: 20px;
+	padding-bottom: 20px; 
+}
+.nav81{
+	float: left;
+}
+.zl{
+	width:186px;
+	height:6px;
+	font-size:6px;
+	font-family:SimSun;
+	font-weight:400;
+	color:rgba(102,102,102,1);
+	line-height:9px;
+}
+.xz{
+	width:32px;
+	height:8px;
+	font-size:8px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(0,164,255,1);
+	line-height:9px;
+}
+.last1
+{
+	width:32px;
+	height:8px;
+	font-size:8px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(0,164,255,1);
+	line-height:9px;
+}
+.last11
+{
+	width:32px;
+	height:8px;
+	font-size:8px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(0,164,255,1);
+	line-height:9px;
+}

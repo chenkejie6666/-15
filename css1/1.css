@@ -1,0 +1,23 @@
+/*
+* @Author: 12863
+* @Date:   2020-05-31 13:14:52
+* @Last Modified by:   12863
+* @Last Modified time: 2020-05-31 13:38:39
+*/
+* {
+	padding: 0;
+	margin: 0;
+}
+a {
+	text-decoration: none;
+}
+ul {
+	list-style-type: none;
+}
+/*清除浮动*/
+.clear:after{
+	content: '';
+	display: block;
+	height: 0;
+	clear: both;
+}
